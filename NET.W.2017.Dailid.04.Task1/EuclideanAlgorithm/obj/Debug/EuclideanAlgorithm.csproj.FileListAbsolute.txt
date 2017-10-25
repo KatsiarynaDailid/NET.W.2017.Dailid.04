@@ -1,0 +1,6 @@
+D:\useful staff\training c#\day 3-4\NET.W.2017.Dailid.04\NET.W.2017.Dailid.04.Task1\EuclideanAlgorithm\bin\Debug\EuclideanAlgorithm.dll
+D:\useful staff\training c#\day 3-4\NET.W.2017.Dailid.04\NET.W.2017.Dailid.04.Task1\EuclideanAlgorithm\bin\Debug\EuclideanAlgorithm.pdb
+D:\useful staff\training c#\day 3-4\NET.W.2017.Dailid.04\NET.W.2017.Dailid.04.Task1\EuclideanAlgorithm\obj\Debug\EuclideanAlgorithm.csprojResolveAssemblyReference.cache
+D:\useful staff\training c#\day 3-4\NET.W.2017.Dailid.04\NET.W.2017.Dailid.04.Task1\EuclideanAlgorithm\obj\Debug\EuclideanAlgorithm.csproj.CoreCompileInputs.cache
+D:\useful staff\training c#\day 3-4\NET.W.2017.Dailid.04\NET.W.2017.Dailid.04.Task1\EuclideanAlgorithm\obj\Debug\EuclideanAlgorithm.dll
+D:\useful staff\training c#\day 3-4\NET.W.2017.Dailid.04\NET.W.2017.Dailid.04.Task1\EuclideanAlgorithm\obj\Debug\EuclideanAlgorithm.pdb
